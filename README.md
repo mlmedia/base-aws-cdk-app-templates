@@ -11,3 +11,9 @@ Init the app (example for TypeScript):
 ```
 cdk init app --language typescript
 ```
+
+## Delete the app 
+NOTE: this may not delete stateful resources like DynamoDB tables, unless specified in the configs
+```
+cdk destroy
+```
