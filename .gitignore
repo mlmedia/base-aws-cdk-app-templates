@@ -59,3 +59,4 @@ bower_components
 ### CDK
 .cdk.staging
 cdk.out
+cdk-outputs.json

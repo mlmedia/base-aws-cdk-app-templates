@@ -1,8 +1,0 @@
-{
-  "cdk-stack": {
-    "apiUrl": "https://4v6nevla60.execute-api.us-east-1.amazonaws.com/",
-    "userPoolClientId": "310q0v4i5m1gbvunak4rh21bgf",
-    "region": "us-east-1",
-    "userPoolId": "us-east-1_2hWVnvAdc"
-  }
-}
